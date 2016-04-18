@@ -1,0 +1,10 @@
+$(function(){
+        $('#signup-btn').click(function(){
+            window.location='../html/signup.html';
+        });
+    });
+	$(function(){
+        $('#login-btn').click(function(){
+            window.location='../html/login.html';
+        });
+    });
